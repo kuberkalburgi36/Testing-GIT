@@ -4,6 +4,10 @@ b = 20
 
 c = 30
 
-print(a+b)
+d = 40
+
+print(a+b+d)
 
 print(c+a+b)
+
+
